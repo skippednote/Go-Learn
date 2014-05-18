@@ -70,6 +70,7 @@
 
 ### Editors
 - [vim-go](https://github.com/fatih/vim-go)
+- [GoSublime](https://github.com/DisposaBoy/GoSublime)
 
 ## Community
 - [IRC: #go-nuts](http://webchat.freenode.net/)
