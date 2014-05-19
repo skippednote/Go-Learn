@@ -33,6 +33,7 @@
 - [Network programming with Go](http://jan.newmarch.name/go/)
 - [Building a package in Go](https://leanpub.com/buildingapackageingo)
 - [Learning Go](http://archive.miek.nl/files/go/Learning-Go-latest.pdf)
+- [Resrc: Go](http://resrc.io/list/10/list-of-free-programming-books/#go)
 - [Go in Action](http://goinactionbook.com/) <sup>Paid</sup>
 - [Programming in Go](http://www.amazon.com/Programming-Go-Creating-Applications-Developers/dp/0321774639/ref=sr_1_1?ie=UTF8&qid=1394381032&sr=8-1&keywords=9780321774637) <sup>Paid</sup>
 - [How Do I Write And Deploy Simple Web Apps With Go?](https://leanpub.com/howdoibuildawebappwithgo) <sup>Paid</sup>
@@ -67,11 +68,18 @@
 - [golang-samples](https://github.com/tenntenn/golang-samples)
 
 ## Tools
-### Frameworks
+### Web Frameworks
 - [Martini](https://github.com/go-martini/martini)
 - [Revel](https://github.com/revel/revel)
 - [Beego](https://github.com/astaxie/beego)
 - [Goji](https://github.com/zenazn/goji)
+
+### Testing Frameworks
+- [Ginko](http://onsi.github.io/ginkgo/)
+- [Gomega](http://onsi.github.io/gomega/)
+
+### Hardware Frameworks
+- [EMBD](http://embd.kidoman.io/)
 
 ### Editors
 - [vim-go](https://github.com/fatih/vim-go)
