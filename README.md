@@ -61,7 +61,10 @@
 
 ## Code
 - [Go by Example](https://gobyexample.com/)
-
+- [golang-examples](https://github.com/SimonWaldherr/golang-examples)
+- [golang-examples (tumblr)](http://golang-examples.tumblr.com)
+- [golang-samples (group)](https://github.com/golang-samples)
+- [golang-samples](https://github.com/tenntenn/golang-samples)
 
 ## Tools
 ### Frameworks
@@ -72,6 +75,7 @@
 
 ### Editors
 - [vim-go](https://github.com/fatih/vim-go)
+- [GoSublime](https://github.com/DisposaBoy/GoSublime)
 
 ## Community
 - [IRC: #go-nuts](http://webchat.freenode.net/)
