@@ -37,12 +37,17 @@
 - [Programming in Go](http://www.amazon.com/Programming-Go-Creating-Applications-Developers/dp/0321774639/ref=sr_1_1?ie=UTF8&qid=1394381032&sr=8-1&keywords=9780321774637) <sup>Paid</sup>
 - [How Do I Write And Deploy Simple Web Apps With Go?](https://leanpub.com/howdoibuildawebappwithgo) <sup>Paid</sup>
 
+### Magazine
+- [The Golang Magazine](https://flipboard.com/section/the-golang-magazine-bJ1GqB)
+
 ## Videos
 - [GopherCon 2014](http://confreaks.com/events/gophercon2014)
 - [A Tour of Go](https://www.youtube.com/watch?v=ytEkHepK08c)
 - [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs)
 - [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+- [Go: a simple programming environment](http://vimeo.com/69237265)
 - [Writing a modern web app with Go, TDD, REST, and AngularJS](https://www.youtube.com/watch?v=wB1hoUJDbk0)
+- [Google Go Content On InfoQ](http://www.infoq.com/googlego/)
 
 ## Screencasts
 - [GopherCasts](https://gophercasts.io/lessons)
