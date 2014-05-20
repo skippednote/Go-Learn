@@ -90,7 +90,7 @@
 - [IRC: #go-nuts](http://webchat.freenode.net/)
 - [Go on Google+](https://plus.google.com/communities/114112804251407510571)
 - [Go on Twitter](https://twitter.com/golang)
-- [Go on Reddit](www.reddit.com/r/golang/)
+- [Go on Reddit](http://www.reddit.com/r/golang/)
 - [Go on Google Groups](https://groups.google.com/forum/#!forum/golang-nuts)
 - [Go on Slack](http://blog.gopheracademy.com/gophers-slack-community)
 - [Gopher Academy](http://gopheracademy.com/)
