@@ -68,11 +68,21 @@
 - [golang-samples](https://github.com/tenntenn/golang-samples)
 
 ## Tools
+
+### Go Version Manager
+- [GVM](https://github.com/moovweb/gvm)
+
 ### Web Frameworks
 - [Martini](https://github.com/go-martini/martini)
 - [Revel](https://github.com/revel/revel)
 - [Beego](https://github.com/astaxie/beego)
 - [Goji](https://github.com/zenazn/goji)
+- [Gorilla](http://www.gorillatoolkit.org/)
+- [Gooo](https://github.com/aaronlifton/Gooo)
+
+### Static Website Generator
+- [Hastie](https://github.com/mkaz/hastie)
+- [Zas](https://github.com/imdario/zas)
 
 ### Testing Frameworks
 - [Ginko](http://onsi.github.io/ginkgo/)
@@ -80,6 +90,9 @@
 
 ### Hardware Frameworks
 - [EMBD](http://embd.kidoman.io/)
+
+### Background Worker
+- [Goworker](http://www.goworker.org/)
 
 ### Editors
 - [vim-go](https://github.com/fatih/vim-go)
