@@ -70,6 +70,7 @@
 ## Tools
 ### Web Frameworks
 - [Martini](https://github.com/go-martini/martini)
+- [Negroni](https://github.com/codegangsta/negroni)
 - [Revel](https://github.com/revel/revel)
 - [Beego](https://github.com/astaxie/beego)
 - [Goji](https://github.com/zenazn/goji)
