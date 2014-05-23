@@ -50,6 +50,7 @@
 - [Writing a modern web app with Go, TDD, REST, and AngularJS](https://www.youtube.com/watch?v=wB1hoUJDbk0)
 - [Google Go Content On InfoQ](http://www.infoq.com/googlego/)
 - [From Node.js to Go](http://confreaks.com/videos/3428-gophercon2014-from-node-js-to-go)
+- [Various conference talks on Go](http://www.techtalkshub.com/tag/golang)
 
 ### Conference
 - [GopherCon 2014](http://confreaks.com/events/gophercon2014)
