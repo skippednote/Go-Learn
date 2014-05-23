@@ -25,6 +25,7 @@
 - [Learn X in Y](http://learnxinyminutes.com/docs/go/)
 - [Upload file from web browser to server](http://www.socketloop.com/tutorials/golang-upload-file)
 - [A Simple Go Web App on Heroku with MongoDB on MongoHQ](http://blog.joshsoftware.com/2014/02/28/a-simple-go-web-app-on-heroku-with-mongodb-on-mongohq/)
+- [Creating Restful Services with Go and Couchbase](http://rpmoore.github.io/2014/05/22/go-rest-couchbase.html)
 
 ## Books
 - [Go Bootcamp](http://www.golangbootcamp.com/book)
@@ -42,13 +43,16 @@
 - [The Golang Magazine](https://flipboard.com/section/the-golang-magazine-bJ1GqB)
 
 ## Videos
-- [GopherCon 2014](http://confreaks.com/events/gophercon2014)
 - [A Tour of Go](https://www.youtube.com/watch?v=ytEkHepK08c)
 - [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs)
 - [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 - [Go: a simple programming environment](http://vimeo.com/69237265)
 - [Writing a modern web app with Go, TDD, REST, and AngularJS](https://www.youtube.com/watch?v=wB1hoUJDbk0)
 - [Google Go Content On InfoQ](http://www.infoq.com/googlego/)
+- [From Node.js to Go](http://confreaks.com/videos/3428-gophercon2014-from-node-js-to-go)
+
+### Conference
+- [GopherCon 2014](http://confreaks.com/events/gophercon2014)
 
 ## Screencasts
 - [GopherCasts](https://gophercasts.io/lessons)
@@ -66,6 +70,10 @@
 - [golang-examples (tumblr)](http://golang-examples.tumblr.com)
 - [golang-samples (group)](https://github.com/golang-samples)
 - [golang-samples](https://github.com/tenntenn/golang-samples)
+
+
+## Hosting
+- [Gogs](http://gogs.io/)
 
 ## Tools
 
@@ -91,6 +99,7 @@
 
 ### Hardware Frameworks
 - [EMBD](http://embd.kidoman.io/)
+- [Gobot](http://gobot.io/)
 
 ### Background Worker
 - [Goworker](http://www.goworker.org/)
@@ -98,7 +107,7 @@
 ### Editors
 - [vim-go](https://github.com/fatih/vim-go)
 - [GoSublime](https://github.com/DisposaBoy/GoSublime)
-- [liteide](https://github.com/visualfc/liteide)
+- [Liteide](https://github.com/visualfc/liteide)
 
 ## Community
 - [IRC: #go-nuts](http://webchat.freenode.net/)
