@@ -89,10 +89,12 @@
 - [Goji](https://github.com/zenazn/goji)
 - [Gorilla](http://www.gorillatoolkit.org/)
 - [Gooo](https://github.com/aaronlifton/Gooo)
+- [Buffalo](https://github.com/gobuffalo/buffalo)
 
 ### Static Website Generator
 - [Hastie](https://github.com/mkaz/hastie)
 - [Zas](https://github.com/imdario/zas)
+- [Hugo](https://github.com/spf13/hugo)
 
 ### Testing Frameworks
 - [Ginko](http://onsi.github.io/ginkgo/)
