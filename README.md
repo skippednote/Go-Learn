@@ -1,4 +1,4 @@
-![Go Learn](http://f.cl.ly/items/260G1M343y0P3d3g2e2W/Slice%201.png)
+![Go Learn](https://raw.githubusercontent.com/skippednote/Go-Learn/master/go-learn-banner.png)
 
 
 ## Official
