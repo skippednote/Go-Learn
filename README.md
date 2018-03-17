@@ -2,7 +2,7 @@
 
 
 ## Official
-- [Website](golang.org/)
+- [Website](http://golang.org/)
 - [The Go Programming Language Specification](http://golang.org/ref/spec)
 - [Blog](http://blog.golang.org/)
 - [Effective Go](http://golang.org/doc/effective_go.html)
